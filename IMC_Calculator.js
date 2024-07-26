@@ -31,4 +31,4 @@ if(imc < 18.5) {
     console.log(`Obesidade Grau III`);
 }
 
-console.log(imc.toFixed(2))
+console.log(imc.toFixed(2));
